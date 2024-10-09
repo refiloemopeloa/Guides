@@ -50,3 +50,9 @@ node -v # should print `v20.18.0`
 # verifies the right npm version is in the environment
 npm -v # should print `10.8.2` - this may change, just as long as the printed version is this or higher
 ```
+
+# References
+
+1. [Node.js — Run JavaScript Everywhere (nodejs.org)](https://nodejs.org/en)
+2. [Node.js — Download Node.js® (nodejs.org)](https://nodejs.org/en/download/package-manager)
+3. 
